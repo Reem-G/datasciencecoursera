@@ -1,6 +1,8 @@
 ---
-title: "Hello world"
-output: word_document
+output:
+  word_document: default
+  html_document: default
 ---
+
 
 ## This is a markdown file
